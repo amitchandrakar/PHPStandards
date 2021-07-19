@@ -4,7 +4,7 @@ This repository contains rulesets for **PHP CodeSniffer** and **PHP Mess Detecto
 ## Installation
 Install this repository globally using composer:
 
-	composer global require mrchetan/php_standard
+	composer global require amitchandrakar/php_standard
 
 Always use the latest version of the repository.
 
@@ -29,15 +29,15 @@ After Activation add the below file to settings.json file
 
 For Mac
 
-	"phpSniffer.standard": "~/.composer/vendor/mrchetan/php_standard/ruleset.xml",
+	"phpSniffer.standard": "~/.composer/vendor/amitchandrakar/php_standard/ruleset.xml",
 
 For Linux
 
-	"phpSniffer.standard": "~/.config/composer/vendor/mrchetan/php_standard/ruleset.xml",
+	"phpSniffer.standard": "~/.config/composer/vendor/amitchandrakar/php_standard/ruleset.xml",
 
 For Windows
 
-	"phpSniffer.standard": "%userprofile%/AppData/Roaming/Composer/vendor/mrchetan/php_standard/ruleset.xml",
+	"phpSniffer.standard": "%userprofile%/AppData/Roaming/Composer/vendor/amitchandrakar/php_standard/ruleset.xml",
 
 ![N|Solid](./img/vs-settings-1.png)
 
