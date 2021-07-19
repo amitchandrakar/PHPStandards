@@ -1,5 +1,5 @@
 {
-    "name": "mrchetan/php_standard",
+    "name": "amitchandrakar/php_standard",
     "description": "PHP coding standard to be followed",
     "type": "php-code-sniffer",
     "require": {
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Chetan",
-            "email": "contact@mrchetan.com"
+            "name": "Amit Chandrakar",
+            "email": "amitchandrakar028@gmail.com"
         }
     ],
     "minimum-stability": "stable"
